@@ -65,14 +65,6 @@ python 02_gbsc_functional_analysis.py \
 
 ```
 
-## Output
-
-Scripts generate:
-- GO annotations (CSV format)
-- Statistical analysis results
-- Significant GO terms and enrichment data
-- Log file with analysis details
-
 ## Workflow
 
 1. Prepare GBSC clusters and protein ID list

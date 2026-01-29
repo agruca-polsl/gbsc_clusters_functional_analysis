@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+env_gbsc_functional/
+results/
+.vscode/
+.env
+*.log

@@ -24,7 +24,7 @@ python 01_download_go.py \
   --input=./input/gbsc_protein_ids.txt \
   --exclude_IEA=no \
   --aspect=F \
-  --project_dir=./results/
+  --output_dir=./results/
 ```
 
 **Parameters:**
